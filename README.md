@@ -47,11 +47,16 @@ then run:
 ```shell
 sudo apt update -y
 ```
+and then:
 
 ```shell
 sudo apt install mate-desktop-environment -y
 
 ```
+and finnally:
 
+```shell
+runx --desktop --gpu -- mate-session
+```
 
 and that program will work on linux on top of windows
