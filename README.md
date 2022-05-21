@@ -45,8 +45,11 @@ sudo apt install ./google-chrome-stable_current_amd64.deb
 then run:
 
 ```shell
-sudo apt update
-sudo apt install mate-desktop-environment
+sudo apt update -y
+```
+
+```shell
+sudo apt install mate-desktop-environment -y
 
 ```
 
