@@ -32,7 +32,7 @@ you will need to in order to be able to run linux stuff on windows
 
 restart your computer
 
-once your restarted your pc and get back into windows. you can install most linux apps and then install a desktop enviroment. and you can run linux stuff on windows
+once you restarted your pc and get back into windows. you can install most linux apps and then install a desktop enviroment. and you can run linux stuff on windows
 
 for example:
 
