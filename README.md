@@ -60,3 +60,5 @@ runx --desktop --gpu -- mate-session
 ```
 
 and that program will work on linux on top of windows
+
+hint: if it says cannot open display. run the runx --desktop --gpu -- mate-session command again and it will work.
