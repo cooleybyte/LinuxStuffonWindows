@@ -36,8 +36,9 @@ once you restarted your pc and get back into windows. you can install most linux
 
 
 but before you can do that. press the windows key on the bottom left side of yourkeyboard. the key is in between the Ctrl key and the Alt key. and type cmd. hit enter and type: 
+```shell
 wsl.exe -d Ubuntu-22.04
-
+```
 and hit enter. 
 
 now put in the commands below and you can run linux stuff on windows. enjoy!
