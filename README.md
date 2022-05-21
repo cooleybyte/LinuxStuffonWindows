@@ -36,11 +36,14 @@ once you restarted your pc and get back into windows. you can install most linux
 
 for example:
 
-```shell
-wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-sudo apt install ./google-chrome-stable_current_amd64.deb -y
+sudo apt install "name of the program"
 
+
+example:
+```shell
+sudo apt install gimp
 ```
+(gimp is a photo editor btw)
 
 then run:
 
