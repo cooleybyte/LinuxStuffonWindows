@@ -26,7 +26,7 @@ sudo apt install xauth
 ```
 
 
-then install this: shorturl.at/fnrxU (if that link doesnt work use these links: https://tinyurl.com/55n5mm98   https://bit.ly/3PD9Gi7)
+then install this: shorturl.at/fnrxU (if that link doesnt work use these links: https://tinyurl.com/55n5mm98  |  https://bit.ly/3PD9Gi7)
 you will need to in order to be able to run linux stuff on windows
 
 
