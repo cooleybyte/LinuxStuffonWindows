@@ -60,6 +60,13 @@ and then:
 sudo apt install mate-desktop-environment -y
 
 ```
+install x before you run the next command: 
+https://tinyurl.com/3svb3x3r
+or if that link doesnt work. try these ones:
+https://bit.ly/3LGSrJo
+https://cutt.ly/kHK6NIN
+https://rb.gy/do9ue7
+
 and finnally:
 
 ```shell
