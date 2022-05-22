@@ -10,7 +10,7 @@ then run run me first.bat and then run me second.bat.
 after that it will open the store and have you install the latest verion of ubuntu. install it and then once its done it will open the ubuntu windows after its done
 
 
-then run these commands one after another (it has to be run one after another or else it wont work right:
+then run these commands one after another (it has to be run one after another or else it wont work right):
 
 ```shell
 sudo wget https://raw.githubusercontent.com/mviereck/runx/master/runx -O /usr/local/bin/runx
