@@ -61,11 +61,7 @@ sudo apt install mate-desktop-environment -y
 
 ```
 install x before you run the next command: 
-https://tinyurl.com/3svb3x3r
-or if that link doesnt work. try these ones:
-https://bit.ly/3LGSrJo
-https://cutt.ly/kHK6NIN
-https://rb.gy/do9ue7
+https://www.onworks.net/downloadapp/SOFTWARE/vcxsrv-64.1.20.9.0.installer.exe?service=service01
 
 and finnally:
 
